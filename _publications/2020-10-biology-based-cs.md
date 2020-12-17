@@ -12,4 +12,4 @@ citation: 'Dodds, Z., Morgan, M., Coxe, H., Popowski, L., Zhou, K., Libeskind-Ha
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper3.pdf) -->
 
-Recommended citation: Dodds, Z., Morgan, M., Coxe, H., Popowski, L., Zhou, K., Libeskind-Hadas, R., & Bush, E. (in press). Biology-based CS1: Results and reflections, ten years in. *52nd ACM Technical Symposium on Computer Science Education.*
+Recommended citation: Dodds, Z., Morgan, M., Coxe, H., Popowski, L., Zhou, K., Libeskind-Hadas, R., & Bush, E. (in press). Biology-based CS1: Results and reflections, ten years in. 52nd ACM Technical Symposium on Computer Science Education.
