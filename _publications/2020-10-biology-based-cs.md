@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/2020-10-biology-based-cs
 excerpt: ''
 date: 2020-10-21
-venue: ''
+venue: 'Proceedings of the 52nd ACM Technical Symposium on Computer Science Education'
 paperurl: ''
-citation: ''
+citation: 'Dodds, Z., Morgan, M., Coxe, H., Popowski, L., Zhou, K., Libeskind-Hadas, R., & Bush, E. (in press). Biology-based CS1: Results and reflections, ten years in. *52nd ACM Technical Symposium on Computer Science Education.*'
 ---
 
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper3.pdf) -->
 
-<!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
+Recommended citation: Dodds, Z., Morgan, M., Coxe, H., Popowski, L., Zhou, K., Libeskind-Hadas, R., & Bush, E. (in press). Biology-based CS1: Results and reflections, ten years in. *52nd ACM Technical Symposium on Computer Science Education.*
