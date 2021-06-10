@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lindsay Popowski"
   avatar           : "profile.png"
-  bio              : "Undergraduate Student/Researcher at Harvey Mudd College"
-  location         : "Claremont, CA"
+  bio              : "Incoming PhD student at Stanford"
+  location         : "Palo Alto, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Ef6K7mQAAAAJ&hl=en"
   email            : "lpopowski@hmc.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Lindsay_Popowski"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/lindsay-popowski-210448170/"
-  orcid            : "https://orcid.org/0000-0002-5649-0286"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
