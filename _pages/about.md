@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In fall 2021, I will be starting my PhD at Stanford University. I received my BS in computer science and mathematics from Harvey Mudd College. My research interests fall within the broad category of social computing, particularly around online community moderation and encouraging pro-social behavior in large communities. I
+In fall 2021, I will be starting my PhD at Stanford University. I received my BS in computer science and mathematics from Harvey Mudd College. My research interests fall within the broad category of social computing, particularly around online community moderation and encouraging pro-social behavior in large communities.
 
 <!-- Site-wide configuration
 ------
