@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year computer science/math joint major from Harvey Mudd College. My research interests include facilitating interdisciplinary computation research, accessible technology, and online community moderation.
+In fall 2021, I will be starting my PhD at Stanford University. I received my BS in computer science and mathematics from Harvey Mudd College. My research interests fall within the broad category of social computing, particularly around online community moderation and encouraging pro-social behavior in large communities. I
 
 <!-- Site-wide configuration
 ------
