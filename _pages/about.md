@@ -16,8 +16,8 @@ My research areas fall broadly within human-computer interaction (HCI) and socia
 In general, I care about understanding how to create online spaces with better social and psychological outcomes. Currently, I'm thinking about (spoiler alert): tiktok affordances, influencers and authenticity, and low-stakes participation in online communities.
 
 
-## Past work
-In the past, I have done work in HCI+AI, planning and scheduling, and interdisciplinary CS.
+## Past Work
+Before starting my PhD, I did research in HCI+AI, planning and scheduling, and interdisciplinary CS.
 
 ## Collaborators and Mentors
 
