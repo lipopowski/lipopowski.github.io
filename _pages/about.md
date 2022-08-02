@@ -8,13 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-In fall 2021, I will be starting my PhD at Stanford University. I received my BS in computer science and mathematics from Harvey Mudd College. My research interests fall within the broad category of social computing, particularly around online community moderation and encouraging pro-social behavior in large communities.
+## About
+I am a first year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics.
 
-<!-- Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
--->
+My research areas fall broadly within human-computer interaction (HCI) and social computing. I am interested in digital self-representation, online communities, and pro-social social media design. My research strives to understand the behavior and experience of people on social media, as well as design new social computing systems to improve said experience. I'm especially passionate about the experiences of queer and neurodivergent people online.
+
+In general, I care about understanding how to create online spaces with better social and psychological outcomes. Currently, I'm thinking about (spoiler alert): tiktok affordances, influencers and authenticity, and low-stakes participation in online communities.
 
 
+## Past work
+In the past, I have done work in HCI+AI, planning and scheduling, and interdisciplinary CS.
+
+## Collaborators and Mentors
+
+I have been privileged to work with the following researchers in various capacities (summer research, REUs, rotation projects, in addition to official advising)
+- [Michael Bernstein](https://hci.stanford.edu/msb/), PhD advisor
+- [Jeff Hancock](https://comm.stanford.edu/faculty-hancock/), spring rotation with [Stanford SML](https://sml.stanford.edu/)
+- [Angèle Christin](http://www.angelechristin.com/), winter rotation
+- [Toby Jia-Jun Li](https://toby.li/), summer REU mentor
+- [Jim Boerkoel](https://www.cs.hmc.edu/~boerkoel/), summer research advisor in the [HEATlab](https://www.cs.hmc.edu/HEAT/)
+- [Zachary Dodds](https://www.cs.hmc.edu/~dodds/), summer research advisor
+
+## Personal
+In addition to doing research, I also live a life. (However, I grew up online, so my life and research have a very close relationship.) I love to bake (and sometimes share the product with my lab), cook, read, and make art. I care deeply about education justice and equity, and not just in computer science. 
 
