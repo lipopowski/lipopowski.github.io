@@ -17,7 +17,7 @@ In general, I care about understanding how to create online spaces with better s
 
 
 ## Past Work
-Before starting my PhD, I did research in HCI+AI, planning and scheduling, and interdisciplinary CS.
+Before starting my PhD, I did research in HCI+AI, planning and scheduling, and interdisciplinary CS. Most of this work was done via the CS summer research program at Harvey Mudd or an REU.
 
 ## Collaborators and Mentors
 
