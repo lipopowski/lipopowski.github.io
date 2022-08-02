@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lindsay Popowski"
 title_separator          : "-"
 name                     : 
-description              : &description "Undergraduate Student/Researcher at Harvey Mudd College"
+description              : &description "PhD student in CS at Stanford University"
 url                      : https://lipopowski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lipopowski/lipopowski.github.io"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lindsay-popowski-210448170/"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
