@@ -30,5 +30,5 @@ I have been privileged to work with the following researchers in various capacit
 - [Zachary Dodds](https://www.cs.hmc.edu/~dodds/), summer research advisor
 
 ## Personal
-In addition to doing research, I also live a life. (However, I grew up online, so my life and research have a very close relationship.) I love to bake (and sometimes share the product with my lab), cook, read, and make art. I care deeply about education justice and equity, and not just in computer science. 
+In addition to doing research, I also live a life. (I did grow up online, so my life and research have a very close relationship.) I love to bake (and sometimes share the product with my lab), cook, read, write, and make art. I'm a fan of a lot of things! I care deeply about education justice and equity, including outside of computer science. 
 
