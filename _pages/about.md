@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-## About
+## About me
 I am a first year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics.
 
 My research areas fall broadly within human-computer interaction (HCI) and social computing. I am interested in digital self-representation, online communities, and pro-social social media design. My research strives to understand the behavior and experience of people on social media, as well as design new social computing systems to improve said experience. I'm especially passionate about the experiences of queer and neurodivergent people online.
 
-In general, I care about understanding how to create online spaces with better social and psychological outcomes. Currently, I'm thinking about (spoiler alert): tiktok affordances, influencers and authenticity, and low-stakes participation in online communities.
+In general, I care about understanding how to create online spaces with better social and psychological outcomes. Currently, I'm thinking about: tiktok affordances, influencers and authenticity, and low-stakes participation in online communities.
 
 
 ## Past Work
@@ -30,5 +30,5 @@ I have been privileged to work with the following researchers in various capacit
 - [Zachary Dodds](https://www.cs.hmc.edu/~dodds/), summer research advisor
 
 ## Personal
-In addition to doing research, I also live a life. (I did grow up online, so my life and research have a very close relationship.) I love to bake (and sometimes share the product with my lab), cook, read, write, and make art. I'm a fan of a lot of things! I care deeply about education justice and equity, including outside of computer science. 
+In addition to doing research, I also live a life. (Caveat here: I grew up online, so my life and research have a very close relationship.) I love to bake (and sometimes share the product with my lab), cook, read, write, and make art. I'm a fan of a lot of things! I care deeply about education justice and equity, inside and outside of computer science. 
 
