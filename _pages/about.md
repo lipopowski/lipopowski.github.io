@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-I am a first year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature.
+I am a second year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature.
 
 My research areas fall broadly within human-computer interaction (HCI) and social computing. I am interested in digital self-representation, online communities, and pro-social social media design. My research strives to understand the behavior and experience of people on social media, as well as design new social computing systems to improve said experience. I'm especially passionate about the experiences of queer and neurodivergent people online.
 
