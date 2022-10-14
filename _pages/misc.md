@@ -14,6 +14,7 @@ I was lucky enough to have a lot of people help me in the process of applying to
 * [Questions to Ask Potential Advisors](http://www.andrewkuz.net/cs-hci-research-hub/) - Andrew Kuznetsov's guide to what questions (and who) you might want to ask, plus a [blog post](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/) explaining more.
 * [HCI PhD opportunities for 2023](http://www.andrewkuz.net/hci-opportunities-2023.html) - also maintained by Andrew Kuznetsov, a hub to see what professors are recruiting for HCI PhD opportunities on twitter.
 * [CS Rankings](https://csrankings.org/#/index?chi&world) - as the name suggests. It can be _one_ tool of many for identifying potential people to work with, though you should still look at their websites and check for professors who have recently joined institutions. Don't put much stock in the rankings; they're controversial, especially in HCI. They also maintain a list of [resources](https://csrankings.org/#/index?chi&world) for people applying to grad programs.
+* [CS PhD Statement of Purpose Database](https://cs-sop.org/) - as indicated by the title, a place to see the SoP's from successful applicants in past years.
 
 
 ### Advice
