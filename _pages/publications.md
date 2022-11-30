@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 ## Conference ##
-[**Social Simulacra: Creating Populated Prototypes for Social Computing Systems**](https://hci.stanford.edu/publications/2022/Park_SocialSimulacra_UIST22.pdf)<br/>
+[**Social Simulacra: Creating Populated Prototypes for Social Computing Systems**](https://doi.org/10.1145/3526113.3545616)<br/>
 Joon Sung Park, *Lindsay Popowski*, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein<br/>
 (In Press) UIST 2022: ACM Symposium on User Interface Software and Technology<br/>
 [**\[Demo\]**](https://social-simulacra.herokuapp.com/)
