@@ -23,7 +23,7 @@ Before starting my PhD, I worked on projects related to HCI+AI, planning and sch
 
 I have been privileged to work with the following researchers in various capacities (summer research, REUs, rotation projects, in addition to official advising)
 - [Michael Bernstein](https://hci.stanford.edu/msb/), PhD advisor
-- [Jeff Hancock](https://comm.stanford.edu/faculty-hancock/), collaborator & spring rotation with [Stanford SML](https://sml.stanford.edu/)
+- [Jeff Hancock](https://comm.stanford.edu/people/jeffrey-hancock), collaborator & spring rotation with [Stanford SML](https://sml.stanford.edu/)
 - [Angèle Christin](http://www.angelechristin.com/), winter rotation
 - [Toby Jia-Jun Li](https://toby.li/), summer REU mentor
 - [Jim Boerkoel](https://www.cs.hmc.edu/~boerkoel/), summer research advisor in the [HEATlab](https://www.cs.hmc.edu/HEAT/)
