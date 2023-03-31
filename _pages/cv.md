@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[CV available here](https://lipopowski.github.io/files/cv.pdf)
+<!-- [CV available here](https://lipopowski.github.io/files/cv.pdf) -->
+
+<embed src="https://lipopowski.github.io/files/cv.pdf" width="600" height="700" type='application/pdf'>
 
 <!-- {% include base_path %}
 
