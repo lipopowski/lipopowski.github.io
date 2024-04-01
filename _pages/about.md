@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 ## About me
-I am a second year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature.
+I am a third year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature.
 
-My research areas fall broadly within human-computer interaction (HCI) and social computing. I combine empirical work and system design/building to critique and reimagine the online spaces that mediate our social interactons. My interests include digital self-representation, online communities, and communication affordances. 
+My research areas fall broadly within human-computer interaction (HCI) and social computing. I combine empirical work and system design/building to critique and reimagine the online spaces that mediate our social interactons. 
 
-In general, I care about understanding how to create online spaces with better social and psychological outcomes. Currently, I'm thinking about: participatory online communities, content-creation affordances and authenticity, parasociality, folk theories, and what virality online really means.
+In general, I care about understanding how to create online spaces with better social and psychological outcomes. Currently, I'm thinking about: participatory online communities, folk theories/mental models/what it means to understand a system, and how to handle the fact that social media has a lot of people and a lot of content, neither of which people are good at handling at scale.
 
 
 ## Past Work
@@ -30,4 +30,4 @@ I have been privileged to work with the following researchers in various capacit
 - [Zachary Dodds](https://www.cs.hmc.edu/~dodds/), summer research advisor
 
 ## Personal
-My life is more than research! I'm a fan of a lot of things and am probably a little too immersed in popular and fan culture. I love to bake (and sometimes share the product with my lab), cook, read, write, and make art. Outside of computer science, I'm also interested in physics, math, media studies, and social history. I care deeply about education justice and equity, inside and outside of computer science, and inside and outside of the academy. 
+My life is more than research! I'm a fan of a lot of things and am probably a little too immersed in popular and fan culture. I love to bake (and sometimes share the product with my lab), cook, read, write, and make art. I review books on the side too! Outside of computer science, I'm also interested in physics, math, media studies, and social history. I care deeply about education justice and equity, inside and outside of computer science, and inside and outside of the academy. 
