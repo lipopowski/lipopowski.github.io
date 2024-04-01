@@ -11,7 +11,7 @@ redirect_from:
 ## About me
 I am a third year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature.
 
-My research areas fall broadly within human-computer interaction (HCI) and social computing. I combine empirical work and system design/building to critique and reimagine the online spaces that mediate our social interactons. 
+My research areas fall broadly within human-computer interaction (HCI) and social computing. I combine empirical work and system design/building to critique and reimagine the online spaces that mediate our social interactions. 
 
 In general, I care about understanding how to create online spaces with better social and psychological outcomes. Currently, I'm thinking about: participatory online communities, folk theories/mental models/what it means to understand a system, and how to handle the fact that social media has a lot of people and a lot of content, neither of which people are good at handling at scale.
 
