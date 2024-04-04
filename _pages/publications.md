@@ -10,9 +10,14 @@ author_profile: true
 {% endif %}
 
 ## Conference ##
+[**Cura: Curation at Social Media Scale**](https://doi.org/10.1145/3610186)<br/>
+Wanrong He, Mitchell L. Gordon, *Lindsay Popowski*, and Michael S. Bernstein<br/>
+CSCW 2023: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
+🏆 Best Paper Award
+
 [**Social Simulacra: Creating Populated Prototypes for Social Computing Systems**](https://doi.org/10.1145/3526113.3545616)<br/>
 Joon Sung Park, *Lindsay Popowski*, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein<br/>
-(In Press) UIST 2022: ACM Symposium on User Interface Software and Technology<br/>
+UIST 2022: ACM Symposium on User Interface Software and Technology<br/>
 [**\[Demo\]**](https://social-simulacra.herokuapp.com/)
 
 [**Screen2Vec: Semantic Embedding of GUI Screens and GUI Components**](https://dl.acm.org/doi/10.1145/3411764.3445049)<br/>
