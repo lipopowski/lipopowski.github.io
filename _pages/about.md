@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+## Currently
+I am visiting the [Hasso Plattner Institut](https://hpi.de/en/research/research-school/international-branches/hasso-plattner-institute.html%E2%80%8B) in Potsdam, Germany for the summer. I am working with [Ralf Herbrich](https://hpi.de/herbrich/people/ralf-herbrich.html) in the [AI and Sustainability cluster](https://hpi.de/en/research/research-groups/artificial-intelligence-and-sustainability.html) during my visit.
+
 ## About me
 I am a third year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature.
 
 My research areas fall broadly within human-computer interaction (HCI) and social computing. I combine empirical work and system design/building to critique and reimagine the online spaces that mediate our social interactions. 
 
-In general, I care about understanding how to create online spaces with better social and psychological outcomes. Currently, I'm thinking about: participatory online communities, folk theories/mental models/what it means to understand a system, and how to handle the fact that social media has a lot of people and a lot of content, neither of which people are good at handling at scale.
+In general, I care about understanding how to create online spaces with better social and psychological outcomes. Currently, I'm thinking about: participatory online communities, folk theories/mental models/what it means to understand an algorithmic system, and how to design social media and user-generated content platforms with relationships as a priority rather than content consumption.
 
 
 ## Past Work
