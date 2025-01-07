@@ -10,6 +10,13 @@ author_profile: true
 {% endif %}
 
 ## Conference ##
+
+[**Commit: Online Groups with Participation Commitments**](https://doi.org/10.1145/3687027)<br/>
+*Lindsay Popowski*, Yutong Zhang, and Michael S. Bernstein<br/>
+CSCW 2024: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
+🏆 Best Paper Honorable Mention Award
+[Open Access](https://arxiv.org/abs/2410.23267)
+
 [**Cura: Curation at Social Media Scale**](https://doi.org/10.1145/3610186)<br/>
 Wanrong He, Mitchell L. Gordon, *Lindsay Popowski*, and Michael S. Bernstein<br/>
 CSCW 2023: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
