@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-I am a fourth year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature.
+I am a fourth year PhD student in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature. I am currently supported by the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/) and the [Stanford Interdisciplinary Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sigf).
 
 My research areas fall broadly within human-computer interaction (HCI) and social computing. I combine empirical work and system design/building to critique and reimagine the online spaces that mediate our social interactions. 
 
@@ -31,4 +31,4 @@ I have been privileged to work with the following researchers in various capacit
 - [Zachary Dodds](https://www.cs.hmc.edu/~dodds/), summer research advisor
 
 ## Personal
-My life is more than research! I'm a fan of a lot of things and am probably a little too immersed in popular and fan culture. I love to bake (and sometimes share the product with my lab), cook, read, write, and make art. I review books on the side too! Outside of computer science, I'm also interested in physics, math, media studies, and social history. I care deeply about education justice and equity, inside and outside of computer science, and inside and outside of the academy. 
+My life is more than research! I'm a fan of a lot of things, and am probably a little too immersed in popular and fan culture. I love to bake  cook, read, write, and make art. I review books on the side too! Outside of computer science, I'm also interested in physics, math, media studies, and social history. I care deeply about education justice and equity, inside and outside of computer science, and inside and outside of the academy. 
