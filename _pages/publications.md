@@ -14,7 +14,7 @@ author_profile: true
 [**Commit: Online Groups with Participation Commitments**](https://doi.org/10.1145/3687027)<br/>
 *Lindsay Popowski*, Yutong Zhang, and Michael S. Bernstein<br/>
 CSCW 2024: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
-🏆 Best Paper Honorable Mention Award
+🏆 Best Paper Honorable Mention Award<br/>
 [Open Access](https://arxiv.org/abs/2410.23267)
 
 [**Cura: Curation at Social Media Scale**](https://doi.org/10.1145/3610186)<br/>
