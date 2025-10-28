@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <u>[Google Scholar profile](https://scholar.google.com/citations?user=Ef6K7mQAAAAJ&hl=en).</u>
 
-####Archival Publications
+### Archival Publications
 
 [**Burst: Collaborative Curation in Connected Social Media Communities**](https://doi.org/10.1145/3757563)<br/>
 Yutong Zhang, Taeuk Kang, Sydney Yeh, Anavi Baddepudi, *Lindsay Popowski*, Tiziano Piccardi, Michael S. Bernstein
@@ -47,7 +47,7 @@ AIJ: Journal of Artificial Intelligence
 Michael Gao\*, *Lindsay Popowski*\*, James C. Boerkoel Jr<br/>
 AAAI 2020: AAAI Conference on Artificial Intelligence<br/>
 
-####Workshops
+### Workshops
 
 [**Design for Hope: Cultivating Deliberate Hope in the Face of Complex Societal Challenges**](https://doi.org/10.1145/3715070.3748287)<br/>
 JaeWon Kim, Jiaying Liu, *Lindsay Popowski*, Cassidy Pyle, Ahmer Arif, Gillian R. Hayes, Alexis Hiniker, Wendy Ju, Florian Mueller, Hua Shen, Sowmya Somanath, Casey Fiesler, Yasmine Kotturi<br/>
