@@ -55,7 +55,7 @@ CSCW 2025: ACM Conference On Computer-Supported Cooperative Work And Social Comp
 [Open Access](https://arxiv.org/abs/2503.07586)
 
 [**Envisioning new futures of positive social technology: Beyond paradigms of fixing, protecting, and preventing**](https://doi.org/10.1145/3678884.3681833)<br/>
-JaeWon Kim, *Lindsay Popowski*, Anna Fang, Cassidy Pyle, Guo Freeman, Ryan M. Kelly, Angela Y. Lee, Fannie Liu, Angela DR Smith, Alexandra To, Amy X. Zhang
+JaeWon Kim, *Lindsay Popowski*, Anna Fang, Cassidy Pyle, Guo Freeman, Ryan M. Kelly, Angela Y. Lee, Fannie Liu, Angela D. R. Smith, Alexandra To, Amy X. Zhang<br/>
 CSCW 2024: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
 [Open Access](https://arxiv.org/abs/2407.17579)
 
