@@ -5,12 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u>[Google Scholar profile](https://scholar.google.com/citations?user=Ef6K7mQAAAAJ&hl=en).</u>
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Ef6K7mQAAAAJ&hl=en).
 
 ### Archival Publications
 
+
+**Burst: Collaborative Curation in Connected Social Media Communities**<br/>
+*Lindsay Popowski*, Helena Vasconcelos, Ignacio Javier Fernandez, Chijioke Chinaza Mgbahurike, Ralf Herbrich, Jeffrey Hancock, Michael S. Bernstein<br/>
+Upcoming in CSCW 2026: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
+[Open Access](https://arxiv.org/abs/2601.18966)
+
 [**Burst: Collaborative Curation in Connected Social Media Communities**](https://doi.org/10.1145/3757563)<br/>
-Yutong Zhang, Taeuk Kang, Sydney Yeh, Anavi Baddepudi, *Lindsay Popowski*, Tiziano Piccardi, Michael S. Bernstein
+Yutong Zhang, Taeuk Kang, Sydney Yeh, Anavi Baddepudi, *Lindsay Popowski*, Tiziano Piccardi, Michael S. Bernstein<br/>
 CSCW 2025: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
 [Open Access](https://arxiv.org/abs/2508.19768)
 
