@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ### Archival Publications
 
 
-**Burst: Collaborative Curation in Connected Social Media Communities**<br/>
+**People Can Accurately Predict Behavior of Complex Algorithms That Are Available, Compact, and Aligned**<br/>
 *Lindsay Popowski*, Helena Vasconcelos, Ignacio Javier Fernandez, Chijioke Chinaza Mgbahurike, Ralf Herbrich, Jeffrey Hancock, Michael S. Bernstein<br/>
 Upcoming in CSCW 2026: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
 [Open Access](https://arxiv.org/abs/2601.18966)
