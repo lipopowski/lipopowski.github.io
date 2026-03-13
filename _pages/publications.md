@@ -7,8 +7,11 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Ef6K7mQAAAAJ&hl=en).
 
-### Archival Publications
-
+**Social Media Feed Elicitation**<br/>
+*Lindsay Popowski*, Xiyuan Wu, Charlotte Zhu, Tiziano Piccardi, Michael S. Bernstein<br/>
+Upcoming in CHI 2026: ACM CHI Conference on Human Factors in Computing Systems<br/>
+🏆 Best Paper Honorable Mention Award<br/>
+[Open Access](https://arxiv.org/abs/2602.18594)
 
 **People Can Accurately Predict Behavior of Complex Algorithms That Are Available, Compact, and Aligned**<br/>
 *Lindsay Popowski*, Helena Vasconcelos, Ignacio Javier Fernandez, Chijioke Chinaza Mgbahurike, Ralf Herbrich, Jeffrey Hancock, Michael S. Bernstein<br/>
@@ -53,7 +56,7 @@ AIJ: Journal of Artificial Intelligence
 Michael Gao\*, *Lindsay Popowski*\*, James C. Boerkoel Jr<br/>
 AAAI 2020: AAAI Conference on Artificial Intelligence<br/>
 
-### Workshops
+## Workshops
 
 [**Design for Hope: Cultivating Deliberate Hope in the Face of Complex Societal Challenges**](https://doi.org/10.1145/3715070.3748287)<br/>
 JaeWon Kim, Jiaying Liu, *Lindsay Popowski*, Cassidy Pyle, Ahmer Arif, Gillian R. Hayes, Alexis Hiniker, Wendy Ju, Florian Mueller, Hua Shen, Sowmya Somanath, Casey Fiesler, Yasmine Kotturi<br/>
