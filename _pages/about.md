@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a fifth year PhD candidate in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature. I am currently supported by the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/) and the [Stanford Interdisciplinary Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sigf).
+I am a fifth year PhD candidate in computer science in the [HCI Group](https://hci.stanford.edu/) at Stanford University, advised by [Michael Bernstein](https://hci.stanford.edu/msb/). Previously, I attended Harvey Mudd College, where I earned a B.S. in Computer Science and Mathematics and concentrated in literature. I am currently supported by the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/) and the [Stanford Interdisciplinary Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/vpge-fellowships/sigf-stanford-interdisciplinary-graduate-fellowship).
 
 My research areas fall broadly within human-computer interaction (HCI) and social computing. I combine empirical work and system design/building to critique and reimagine the online spaces that mediate our social interactions. 
 
