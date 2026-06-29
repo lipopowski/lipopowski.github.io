@@ -7,27 +7,27 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Ef6K7mQAAAAJ&hl=en).
 
-**Social Media Feed Elicitation**<br/>
-*Lindsay Popowski*, Xiyuan Wu, Charlotte Zhu, Tiziano Piccardi, Michael S. Bernstein<br/>
-Upcoming in CHI 2026: ACM CHI Conference on Human Factors in Computing Systems<br/>
-🏆 Best Paper Honorable Mention Award<br/>
-[Open Access](https://arxiv.org/abs/2602.18594)
-
-**People Can Accurately Predict Behavior of Complex Algorithms That Are Available, Compact, and Aligned**<br/>
+[**People Can Accurately Predict Behavior of Complex Algorithms That Are Available, Compact, and Aligned**](https://doi.org/10.1145/3788067)<br/>
 *Lindsay Popowski*, Helena Vasconcelos, Ignacio Javier Fernandez, Chijioke Chinaza Mgbahurike, Ralf Herbrich, Jeffrey Hancock, Michael S. Bernstein<br/>
 Upcoming in CSCW 2026: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
-[Open Access](https://arxiv.org/abs/2601.18966)
+[arXiv](https://arxiv.org/abs/2601.18966)
+
+[**Social Media Feed Elicitation**](https://doi.org/10.1145/3772318.3791569)<br/>
+*Lindsay Popowski*, Xiyuan Wu, Charlotte Zhu, Tiziano Piccardi, Michael S. Bernstein<br/>
+CHI 2026: ACM CHI Conference on Human Factors in Computing Systems<br/>
+🏆 Best Paper Honorable Mention Award<br/>
+[arXiv](https://arxiv.org/abs/2602.18594)
 
 [**Burst: Collaborative Curation in Connected Social Media Communities**](https://doi.org/10.1145/3757563)<br/>
 Yutong Zhang, Taeuk Kang, Sydney Yeh, Anavi Baddepudi, *Lindsay Popowski*, Tiziano Piccardi, Michael S. Bernstein<br/>
 CSCW 2025: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
-[Open Access](https://arxiv.org/abs/2508.19768)
+[arXiv](https://arxiv.org/abs/2508.19768)
 
 [**Commit: Online Groups with Participation Commitments**](https://doi.org/10.1145/3687027)<br/>
 *Lindsay Popowski*, Yutong Zhang, and Michael S. Bernstein<br/>
 CSCW 2024: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
 🏆 Best Paper Honorable Mention Award<br/>
-[Open Access](https://arxiv.org/abs/2410.23267)
+[arXiv](https://arxiv.org/abs/2410.23267)
 
 [**Cura: Curation at Social Media Scale**](https://doi.org/10.1145/3610186)<br/>
 Wanrong He, Mitchell L. Gordon, *Lindsay Popowski*, and Michael S. Bernstein<br/>
@@ -61,10 +61,10 @@ AAAI 2020: AAAI Conference on Artificial Intelligence<br/>
 [**Design for Hope: Cultivating Deliberate Hope in the Face of Complex Societal Challenges**](https://doi.org/10.1145/3715070.3748287)<br/>
 JaeWon Kim, Jiaying Liu, *Lindsay Popowski*, Cassidy Pyle, Ahmer Arif, Gillian R. Hayes, Alexis Hiniker, Wendy Ju, Florian Mueller, Hua Shen, Sowmya Somanath, Casey Fiesler, Yasmine Kotturi<br/>
 CSCW 2025: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
-[Open Access](https://arxiv.org/abs/2503.07586)
+[arXiv](https://arxiv.org/abs/2503.07586)
 
 [**Envisioning new futures of positive social technology: Beyond paradigms of fixing, protecting, and preventing**](https://doi.org/10.1145/3678884.3681833)<br/>
 JaeWon Kim, *Lindsay Popowski*, Anna Fang, Cassidy Pyle, Guo Freeman, Ryan M. Kelly, Angela Y. Lee, Fannie Liu, Angela D. R. Smith, Alexandra To, Amy X. Zhang<br/>
 CSCW 2024: ACM Conference On Computer-Supported Cooperative Work And Social Computing<br/>
-[Open Access](https://arxiv.org/abs/2407.17579)
+[arXiv](https://arxiv.org/abs/2407.17579)
 
