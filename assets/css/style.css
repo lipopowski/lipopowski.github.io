@@ -1,0 +1,182 @@
+/* ---------- Variables ---------- */
+:root {
+  --accent: #8C1515;        /* Stanford cardinal */
+  --text: #1a1a1a;
+  --muted: #6b6b6b;
+  --rule: #e6e6e6;
+  --maxw: 900px;
+  --serif: Charter, Georgia, Cambria, "Times New Roman", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+/* ---------- Base ---------- */
+* { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  overflow-y: scroll;          /* always reserve scrollbar space so pages don't shift */
+  scrollbar-gutter: stable;
+}
+
+body {
+  font-family: var(--serif);
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--text);
+  background: #fff;
+  margin: 0;
+  padding: 0 1.25rem;
+}
+
+/* Center each region up to --maxw; home page widens --maxw for the sidebar */
+.site-header,
+.content,
+.site-footer {
+  max-width: var(--maxw);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+/* ---------- Header / nav ---------- */
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: flex-end;
+  gap: 0.5rem 1.5rem;
+  padding: 2rem 0 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.site-name {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: var(--text);
+}
+
+.site-nav {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.site-nav a {
+  color: var(--muted);
+  margin-left: 1.1rem;
+}
+.site-nav a:first-child { margin-left: 0; }
+.site-nav a:hover,
+.site-nav a.active { color: var(--accent); text-decoration: none; }
+
+/* ---------- Content ---------- */
+.content { min-height: 60vh; }
+
+h1, h2, h3 {
+  font-family: var(--sans);
+  line-height: 1.25;
+  color: var(--text);
+}
+h1 { font-size: 1.7rem; margin: 0 0 1rem; }
+h2 {
+  font-size: 1.15rem;
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--rule);
+}
+h3 { font-size: 1rem; margin: 1.75rem 0 0.5rem; }
+
+p { margin: 0 0 1.1rem; }
+
+/* Headshot on home page — edit `width` here to resize it */
+.headshot {
+  float: left;
+  width: 250px;
+  border-radius: 6px;
+  margin: 0.2rem 1.5rem 0.75rem 0;
+}
+
+/* ---------- Home layout: bio + news sidebar ---------- */
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr 220px;
+  gap: 3rem;
+  align-items: start;
+}
+.home-main > :first-child { margin-top: 0; }
+.home-main p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+/* keep section headings from wrapping beside the floated photo */
+.home-main h2 { clear: left; }
+.home-main h2:first-child { clear: none; text-align: right; }
+
+.home-news {
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+.home-news h2 {
+  font-size: 0.9rem;
+  margin: 0.35rem 0 1rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--rule);
+}
+.news-list { list-style: none; margin: 0; padding: 0; }
+.news-list li { margin-bottom: 1rem; }
+.news-list li:last-child { margin-bottom: 0; }
+.news-date {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  margin-bottom: 0.1rem;
+}
+.news-list p { margin: 0; }
+
+@media (max-width: 720px) {
+  .home-grid { grid-template-columns: 1fr; gap: 2rem; }
+  .home-news {
+    border-top: 1px solid var(--rule);
+    padding-top: 1.25rem;
+  }
+}
+
+/* ---------- Publications ---------- */
+.pub-list { }
+.pub {
+  margin-bottom: 1.6rem;
+}
+.pub .title { font-weight: 600; }
+.pub .authors { color: var(--text); }
+.pub .venue { color: var(--muted); font-style: italic; }
+.pub .award { color: var(--accent); }
+.pub .links { font-family: var(--sans); font-size: 0.82rem; }
+em { font-style: italic; }
+
+/* ---------- Footer ---------- */
+.site-footer {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top: 3.5rem;
+  padding: 1.5rem 0 2.5rem;
+}
+.site-footer a { color: var(--muted); margin-right: 1.2rem; }
+.site-footer a:hover { color: var(--accent); text-decoration: none; }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 540px) {
+  body { font-size: 17px; }
+  .headshot { float: none; display: block; margin: 0 auto 1.5rem; width: 180px; }
+  .site-header { padding-top: 1.5rem; }
+}

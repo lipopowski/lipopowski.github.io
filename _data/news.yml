@@ -1,0 +1,23 @@
+# Newest first. Each entry: a date label and the text (Markdown links allowed).
+# To add an update, copy one block to the top and edit it.
+
+- date: "July 2026"
+  text: "We have announced the third Positech Workshop, [The Capacity to Care](https://positech.github.io/cscw2026.html), with submissions due by August 3rd."
+
+- date: "Apr 2026"
+  text: "*Social Media Feed Elicitation* received a Best Paper Honorable Mention at CHI 2026."
+
+- date: "Mar-June 2026"
+  text: "Teaching CS 278: Social Computing."
+
+- date: "Jan 2026"
+  text: "*Social Media Feed Elicitation* was accepted to CHI 2026."
+
+- date: "Dec 2025"
+  text: "Visited KAIST to present on *Social Media Feed Elicitation*"
+
+- date: "Dec 2025"
+  text: "*People Can Accurately Predict Behavior of Complex Algorithms That Are Available, Compact, and Aligned* was accepted to CSCW 2026."
+
+- date: "Oct 2025"
+  text: "Co-led the workshop *Design for Hope: Cultivating Deliberate Hope in the Face of Complex Societal Challenges* at CSCW 2025."
