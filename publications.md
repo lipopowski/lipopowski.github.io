@@ -87,6 +87,13 @@ You can also find my work on my [Google Scholar profile](https://scholar.google.
 <div class="pub-list" markdown="1">
 
 <div class="pub" markdown="1">
+**The Capacity to Care: Designing Social Technology for Sustained Engagement With Societal Challenges**<br/>
+<span class="authors" markdown="1">JaeWon Kim, *Lindsay Popowski*, Louisa Conwill, Elizabeth Li, Meryl Ye, Jiaying Liu, Jose A. Guridi, Theia Henderson, Bingxu Han, Dennis Wang, Angel Hsing-Chi Hwang, Susan Wyche, Yasmine Kotturi, Gillian R. Hayes, Angela D. R. Smith</span><br/>
+<span class="venue">CSCW 2026: ACM Conference on Computer-Supported Cooperative Work and Social Computing</span><br/>
+<span class="links">[arXiv](https://arxiv.org/abs/2605.05651)</span>
+</div>
+
+<div class="pub" markdown="1">
 [**Design for Hope: Cultivating Deliberate Hope in the Face of Complex Societal Challenges**](https://doi.org/10.1145/3715070.3748287)<br/>
 <span class="authors" markdown="1">JaeWon Kim, Jiaying Liu, *Lindsay Popowski*, Cassidy Pyle, Ahmer Arif, Gillian R. Hayes, Alexis Hiniker, Wendy Ju, Florian Mueller, Hua Shen, Sowmya Somanath, Casey Fiesler, Yasmine Kotturi</span><br/>
 <span class="venue">CSCW 2025: ACM Conference on Computer-Supported Cooperative Work and Social Computing</span><br/>
