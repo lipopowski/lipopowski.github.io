@@ -19,7 +19,13 @@ You can also find my work on my [Google Scholar profile](https://scholar.google.
 </div>
 
 <div class="pub" markdown="1">
-[**Social Media Feed Elicitation**](https://doi.org/10.1145/3772318.3791569)<br/>
+[**I'm In If You're In: Action Escrows as a Design Pattern to Achieve Social Change in Online Communities**](https://doi.org/10.1145/3788067)<br/>
+<span class="authors" markdown="1">Pranav Khadpe, *Lindsay Popowski*, Lindy Le, Kyzyl Monteiro, Geoff Kaufman</span><br/>
+<span class="venue">Upcoming in CSCW 2026: ACM Conference on Computer-Supported Cooperative Work and Social Computing</span>
+</div>
+
+<div class="pub" markdown="1">
+[**Social Media Feed Elicitation**](https://doi.org/10.1145/3816947)<br/>
 <span class="authors" markdown="1">*Lindsay Popowski*, Xiyuan Wu, Charlotte Zhu, Tiziano Piccardi, Michael S. Bernstein</span><br/>
 <span class="venue">CHI 2026: ACM CHI Conference on Human Factors in Computing Systems</span><br/>
 <span class="award">🏆 Best Paper Honorable Mention Award</span><br/>
@@ -101,7 +107,7 @@ You can also find my work on my [Google Scholar profile](https://scholar.google.
 </div>
 
 <div class="pub" markdown="1">
-[**Envisioning new futures of positive social technology: Beyond paradigms of fixing, protecting, and preventing**](https://doi.org/10.1145/3678884.3681833)<br/>
+[**Envisioning New Futures of Positive Social Technology: Beyond Paradigms of Fixing, Protecting, and Preventing**](https://doi.org/10.1145/3678884.3681833)<br/>
 <span class="authors" markdown="1">JaeWon Kim, *Lindsay Popowski*, Anna Fang, Cassidy Pyle, Guo Freeman, Ryan M. Kelly, Angela Y. Lee, Fannie Liu, Angela D. R. Smith, Alexandra To, Amy X. Zhang</span><br/>
 <span class="venue">CSCW 2024: ACM Conference on Computer-Supported Cooperative Work and Social Computing</span><br/>
 <span class="links">[arXiv](https://arxiv.org/abs/2407.17579)</span>
